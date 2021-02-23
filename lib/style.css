@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+body {
+  font-family: 'Krona One', sans-serif;
+}
+
+.title {
+  front-size: 45px;
+}
+
+.explanation {
+  font-size: 10px;
+}
+
+.explanation {
+  color:burlywood;
+}
+
+.sectionTitle {
+  front-size: 25px
+}
+
+.list {
+  font-size: 15px;
+}
+
+.list {
+  color:#CC6600;
+}
